@@ -140,7 +140,7 @@
     <!-- Tab label for permissions related to device behavior [CHAR LIMIT=20] -->
     <string name="devicePerms">Device Access</string>
     <!-- Tab label for version information [CHAR LIMIT = 20] -->
-    <string name="appversion" > Version Info </string>
+    <string name="appversion">Version Info </string>
 		
     <!-- Body text for new tab when there are no new permissions [CHAR LIMIT=NONE] -->
     <string name="no_new_perms">This update requires no new permissions.</string>

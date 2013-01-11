@@ -319,7 +319,7 @@ public class PackageInstallerActivity extends Activity implements OnCancelListen
             }
             mScrollView.addView(layoutVersion);
             adapter.addTab(tabHost.newTabSpec("version").setIndicator(
-                    getText(R.string.appVersion)), mScrollView);
+                    getText(R.string.appversion)), mScrollView);
         }
         if (msg != 0) {
             ((TextView)findViewById(R.id.install_confirm_question)).setText(msg);
